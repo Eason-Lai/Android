@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Eason的计算器</string>
+    <string name="button_namePoint">.</string>
+    <string name="button_name0">0</string>
+    <string name="button_name1">1</string>
+    <string name="button_name2">2</string>
+    <string name="button_name3">3</string>
+    <string name="button_name4">4</string>
+    <string name="button_name5">5</string>
+    <string name="button_name6">6</string>
+    <string name="button_name7">7</string>
+    <string name="button_name8">8</string>
+    <string name="button_name9">9</string>
+    <string name="button_nameAdd">+</string>
+    <string name="button_nameMin">-</string>
+    <string name="button_nameMul">*</string>
+    <string name="button_nameDiv">/</string>
+    <string name="button_nameEqu">=</string>
+    <string name="button_nameClr">C</string>
+    <string name="button_nameLbk">(</string>
+    <string name="button_nameRbk">)</string>
+    <string name="button_namePoM">+/-</string>
+
+</resources>
